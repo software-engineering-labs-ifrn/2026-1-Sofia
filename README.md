@@ -26,4 +26,4 @@ Este projeto resolve esse problema entregando uma calculadora via terminal de r�
 * **Interface:** CLI (Interface de Linha de Comando)
 
 ## 👨‍💻 Integrantes e Papéis
-* **Seu Nome Completo:** Desenvolvedor Principal (Responsável pela Arquitetura de Classes, Lógica das Operações Matemáticas, Fluxo do Menu no Terminal e Tratamento de Erros).
+* **Sofia Barros Silva:** Desenvolvedor Principal (Responsável pela Arquitetura de Classes, Lógica das Operações Matemáticas, Fluxo do Menu no Terminal e Tratamento de Erros).
